@@ -24,3 +24,18 @@ Portfolio pessoal com foco acadêmico e científico, apresentando:
 - Animações CSS nativas
 
 ## 📁 Estrutura
+walter-paixao/
+├── index.html   # Página principal
+└── README.md
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+```bash
+   git clone https://github.com/FaresMahmud/walter-paixao.git
+```
+2. Abra `index.html` no navegador.
+
+## 👨‍💻 Desenvolvido por
+
+**Fares Mahmud** — [github.com/FaresMahmud](https://github.com/FaresMahmud)
