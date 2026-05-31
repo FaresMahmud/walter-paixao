@@ -4,7 +4,7 @@ Site de portfólio profissional desenvolvido para o **Dr. Walter Paixão**, Biom
 
 ## 🌐 Demo
 
-> Faça o deploy via GitHub Pages para disponibilizar o site online.
+https://dr-walter-paixao.netlify.app/
 
 ## 📋 Sobre o Projeto
 
