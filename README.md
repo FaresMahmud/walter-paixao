@@ -24,6 +24,7 @@ Portfolio pessoal com foco acadêmico e científico, apresentando:
 - Animações CSS nativas
 
 ## 📁 Estrutura
+
 walter-paixao/
 ├── index.html   # Página principal
 └── README.md
